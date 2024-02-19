@@ -29,3 +29,9 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+# Simple Web Site
+
+Poem Author - https://www.public-domain-poetry.com/samuel-taylor-coleridge
+
+Photo Author - https://unsplash.com/@taylormadeglobal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
